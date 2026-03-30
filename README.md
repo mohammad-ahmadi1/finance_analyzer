@@ -1,6 +1,6 @@
 # Finance Analyzer
 
-Finance Analyzer is a Python tool with the analyzing features explained below:
+Finance Analyzer is a Python tool for analyzing your financial account data. Here are some of the features:
 
 - Detecting likely recurring payments (subscriptions and monthly bills)
 - Forecasting future account balance based on recent spending velocity
