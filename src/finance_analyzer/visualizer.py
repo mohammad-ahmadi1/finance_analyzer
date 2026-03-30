@@ -20,7 +20,8 @@ def plot_spending_categories(df: pd.DataFrame, output_path: str) -> str:
     category_totals = category_totals.sort_values("amount", ascending=False)
 
     sns.set_theme(style="whitegrid")
-    # Make the figure slightly wider to accommodate the legend
+    
+    # Styling the chart
     fig, ax = plt.subplots(figsize=(11, 7)) 
     colors = sns.color_palette("Set2", n_colors=len(category_totals))
     
