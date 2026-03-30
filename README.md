@@ -59,3 +59,19 @@ See [`notebooks/example_usage.ipynb`](./notebooks/example_usage.ipynb) for a ste
 - Forecasts balance
 - Generates recommendation text
 - Produces visual plots
+
+## Package
+
+From the source file run `uv build` creates a `.whl` file which you can share the program as a package.
+
+### Load the package and run the program
+
+```bash
+uv pip install `/path/to/finance_analyzer-0.1.0-py3-none-any.whl`
+```
+
+and then run
+
+```bash
+uv run python -m finance_analyzer --data /path/to/your/dataset.csv
+```
