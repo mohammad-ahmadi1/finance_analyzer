@@ -1,0 +1,277 @@
+date,description,amount,category,balance
+2025-10-01,Lunch Spot,-14.82,Dining,2435.18
+2025-10-01,Online Retail,-85.08,Shopping,2350.10
+2025-10-01,Rent Payment,-1200.00,Housing,1150.10
+2025-10-02,Coffee Shop,-13.87,Dining,1136.23
+2025-10-03,Fuel Station,-41.65,Transport,1094.58
+2025-10-03,Salary Deposit,1500.00,Income,2594.58
+2025-10-04,Bookstore,-23.04,Entertainment,2571.54
+2025-10-04,Fuel Station,-43.66,Transport,2527.88
+2025-10-04,Grocery Store,-83.18,Groceries,2444.70
+2025-10-04,Lunch Spot,-18.25,Dining,2426.45
+2025-10-05,Grocery Store,-53.22,Groceries,2373.23
+2025-10-06,Netflix,-15.99,Subscriptions,2357.24
+2025-10-07,Ride Share,-21.78,Transport,2335.46
+2025-10-08,Coffee Shop,-33.83,Dining,2301.63
+2025-10-08,Fuel Station,-41.11,Transport,2260.52
+2025-10-09,Spotify,-10.99,Subscriptions,2249.53
+2025-10-10,Bookstore,-34.63,Entertainment,2214.90
+2025-10-11,Dinner Takeout,-12.16,Dining,2202.74
+2025-10-11,Grocery Store,-104.65,Groceries,2098.09
+2025-10-11,Gym Membership,-45.00,Health,2053.09
+2025-10-12,Grocery Store,-58.89,Groceries,1994.20
+2025-10-12,Lunch Spot,-36.34,Dining,1957.86
+2025-10-12,Ride Share,-40.34,Transport,1917.52
+2025-10-13,Cinema Tickets,-106.65,Entertainment,1810.87
+2025-10-13,Fuel Station,-45.84,Transport,1765.03
+2025-10-14,Metro Card Reload,-26.59,Transport,1738.44
+2025-10-15,Cloud Storage,-9.99,Subscriptions,1728.45
+2025-10-15,Fuel Station,-43.01,Transport,1685.44
+2025-10-16,Coffee Shop,-24.34,Dining,1661.10
+2025-10-16,Online Retail,-105.00,Shopping,1556.10
+2025-10-16,Ride Share,-26.77,Transport,1529.33
+2025-10-17,Salary Deposit,1500.00,Income,3029.33
+2025-10-18,Electric Utility,-92.00,Utilities,2937.33
+2025-10-18,Grocery Store,-50.40,Groceries,2886.93
+2025-10-18,Metro Card Reload,-32.87,Transport,2854.06
+2025-10-19,Grocery Store,-45.98,Groceries,2808.08
+2025-10-20,Coffee Shop,-22.33,Dining,2785.75
+2025-10-20,Internet Bill,-65.00,Utilities,2720.75
+2025-10-20,Ride Share,-23.99,Transport,2696.76
+2025-10-21,Dinner Takeout,-33.43,Dining,2663.33
+2025-10-22,Ride Share,-22.03,Transport,2641.30
+2025-10-23,Fuel Station,-33.35,Transport,2607.95
+2025-10-24,Lunch Spot,-37.63,Dining,2570.32
+2025-10-24,Metro Card Reload,-30.96,Transport,2539.36
+2025-10-25,Grocery Store,-71.14,Groceries,2468.22
+2025-10-25,Lunch Spot,-35.38,Dining,2432.84
+2025-10-25,Ride Share,-52.51,Transport,2380.33
+2025-10-26,Grocery Store,-90.28,Groceries,2290.05
+2025-10-26,Ride Share,-30.34,Transport,2259.71
+2025-10-29,Ride Share,-38.54,Transport,2221.17
+2025-10-30,Dinner Takeout,-14.28,Dining,2206.89
+2025-10-30,Fuel Station,-11.01,Transport,2195.88
+2025-10-31,Coffee Shop,-36.95,Dining,2158.93
+2025-10-31,Online Retail,-42.08,Entertainment,2116.85
+2025-10-31,Ride Share,-10.77,Transport,2106.08
+2025-11-01,Grocery Store,-63.21,Groceries,2042.87
+2025-11-01,Lunch Spot,-35.07,Dining,2007.80
+2025-11-01,Rent Payment,-1200.00,Housing,807.80
+2025-11-01,Ride Share,-35.08,Transport,772.72
+2025-11-02,Cinema Tickets,-118.29,Shopping,654.43
+2025-11-02,Grocery Store,-53.24,Groceries,601.19
+2025-11-02,Metro Card Reload,-27.32,Transport,573.87
+2025-11-03,Ride Share,-23.95,Transport,549.92
+2025-11-04,Lunch Spot,-14.99,Dining,534.93
+2025-11-04,Metro Card Reload,-14.59,Transport,520.34
+2025-11-05,Ride Share,-12.60,Transport,507.74
+2025-11-06,Bookstore,-63.99,Entertainment,443.75
+2025-11-06,Fuel Station,-51.54,Transport,392.21
+2025-11-06,Netflix,-15.99,Subscriptions,376.22
+2025-11-07,Coffee Shop,-41.47,Dining,334.75
+2025-11-08,Grocery Store,-111.65,Groceries,223.10
+2025-11-09,Bookstore,-35.51,Shopping,187.59
+2025-11-09,Grocery Store,-129.61,Groceries,57.98
+2025-11-09,Spotify,-10.99,Subscriptions,46.99
+2025-11-11,Gym Membership,-45.00,Health,1.99
+2025-11-11,Ride Share,-30.41,Transport,-28.42
+2025-11-12,Dinner Takeout,-8.45,Dining,-36.87
+2025-11-12,Ride Share,-11.77,Transport,-48.64
+2025-11-13,Ride Share,-19.57,Transport,-68.21
+2025-11-14,Lunch Spot,-13.35,Dining,-81.56
+2025-11-14,Ride Share,-34.57,Transport,-116.13
+2025-11-14,Salary Deposit,1500.00,Income,1383.87
+2025-11-15,Cloud Storage,-9.99,Subscriptions,1373.88
+2025-11-15,Grocery Store,-65.29,Groceries,1308.59
+2025-11-15,Ride Share,-38.34,Transport,1270.25
+2025-11-16,Grocery Store,-124.54,Groceries,1145.71
+2025-11-16,Online Retail,-66.64,Shopping,1079.07
+2025-11-16,Ride Share,-54.93,Transport,1024.14
+2025-11-18,Electric Utility,-92.00,Utilities,932.14
+2025-11-18,Fuel Station,-28.59,Transport,903.55
+2025-11-20,Internet Bill,-65.00,Utilities,838.55
+2025-11-21,Fuel Station,-20.43,Transport,818.12
+2025-11-22,Dinner Takeout,-36.70,Dining,781.42
+2025-11-22,Fuel Station,-41.73,Transport,739.69
+2025-11-22,Grocery Store,-58.21,Groceries,681.48
+2025-11-23,Dinner Takeout,-21.25,Dining,660.23
+2025-11-23,Grocery Store,-66.35,Groceries,593.88
+2025-11-24,Dinner Takeout,-21.91,Dining,571.97
+2025-11-24,Fuel Station,-37.94,Transport,534.03
+2025-11-25,Dinner Takeout,-38.54,Dining,495.49
+2025-11-26,Online Retail,-16.52,Entertainment,478.97
+2025-11-28,Coffee Shop,-30.01,Dining,448.96
+2025-11-28,Salary Deposit,1500.00,Income,1948.96
+2025-11-29,Grocery Store,-92.59,Groceries,1856.37
+2025-11-30,Fuel Station,-53.88,Transport,1802.49
+2025-11-30,Grocery Store,-123.69,Groceries,1678.80
+2025-12-01,Rent Payment,-1200.00,Housing,478.80
+2025-12-01,Ride Share,-51.45,Transport,427.35
+2025-12-03,Ride Share,-13.08,Transport,414.27
+2025-12-04,Metro Card Reload,-24.43,Transport,389.84
+2025-12-05,Coffee Shop,-40.81,Dining,349.03
+2025-12-05,Ride Share,-17.08,Transport,331.95
+2025-12-06,Grocery Store,-99.53,Groceries,232.42
+2025-12-06,Lunch Spot,-12.43,Dining,219.99
+2025-12-06,Netflix,-15.99,Subscriptions,204.00
+2025-12-06,Ride Share,-23.56,Transport,180.44
+2025-12-07,Grocery Store,-67.56,Groceries,112.88
+2025-12-07,Metro Card Reload,-24.25,Transport,88.63
+2025-12-08,Bookstore,-12.18,Shopping,76.45
+2025-12-08,Dinner Takeout,-12.84,Dining,63.61
+2025-12-09,Fuel Station,-52.60,Transport,11.01
+2025-12-09,Spotify,-10.99,Subscriptions,0.02
+2025-12-10,Lunch Spot,-24.26,Dining,-24.24
+2025-12-11,Gym Membership,-45.00,Health,-69.24
+2025-12-11,Lunch Spot,-29.94,Dining,-99.18
+2025-12-11,Ride Share,-21.90,Transport,-121.08
+2025-12-12,Dinner Takeout,-16.83,Dining,-137.91
+2025-12-12,Salary Deposit,1500.00,Income,1362.09
+2025-12-13,Grocery Store,-45.03,Groceries,1317.06
+2025-12-13,Metro Card Reload,-44.93,Transport,1272.13
+2025-12-14,Grocery Store,-82.55,Groceries,1189.58
+2025-12-15,Cloud Storage,-9.99,Subscriptions,1179.59
+2025-12-16,Coffee Shop,-30.22,Dining,1149.37
+2025-12-16,Ride Share,-37.75,Transport,1111.62
+2025-12-17,Fuel Station,-10.17,Transport,1101.45
+2025-12-18,Electric Utility,-92.00,Utilities,1009.45
+2025-12-20,Grocery Store,-78.97,Groceries,930.48
+2025-12-20,Internet Bill,-65.00,Utilities,865.48
+2025-12-20,Ride Share,-8.26,Transport,857.22
+2025-12-21,Fuel Station,-45.79,Transport,811.43
+2025-12-21,Grocery Store,-54.06,Groceries,757.37
+2025-12-22,Online Retail,-98.55,Entertainment,658.82
+2025-12-26,Coffee Shop,-36.24,Dining,622.58
+2025-12-26,Salary Deposit,1500.00,Income,2122.58
+2025-12-27,Grocery Store,-111.10,Groceries,2011.48
+2025-12-27,Lunch Spot,-8.79,Dining,2002.69
+2025-12-28,Grocery Store,-68.10,Groceries,1934.59
+2025-12-28,Lunch Spot,-30.98,Dining,1903.61
+2025-12-28,Ride Share,-11.79,Transport,1891.82
+2025-12-29,Bookstore,-54.06,Shopping,1837.76
+2025-12-29,Metro Card Reload,-23.55,Transport,1814.21
+2025-12-31,Metro Card Reload,-22.03,Transport,1792.18
+2026-01-01,Rent Payment,-1200.00,Housing,592.18
+2026-01-03,Grocery Store,-68.20,Groceries,523.98
+2026-01-04,Grocery Store,-112.84,Groceries,411.14
+2026-01-06,Bookstore,-26.66,Entertainment,384.48
+2026-01-06,Netflix,-15.99,Subscriptions,368.49
+2026-01-07,Lunch Spot,-18.15,Dining,350.34
+2026-01-07,Metro Card Reload,-25.82,Transport,324.52
+2026-01-08,Bookstore,-36.22,Shopping,288.30
+2026-01-08,Coffee Shop,-32.96,Dining,255.34
+2026-01-08,Metro Card Reload,-19.86,Transport,235.48
+2026-01-09,Salary Deposit,1500.00,Income,1735.48
+2026-01-09,Spotify,-10.99,Subscriptions,1724.49
+2026-01-10,Fuel Station,-37.20,Transport,1687.29
+2026-01-10,Grocery Store,-125.72,Groceries,1561.57
+2026-01-10,Lunch Spot,-30.10,Dining,1531.47
+2026-01-11,Cinema Tickets,-116.08,Shopping,1415.39
+2026-01-11,Grocery Store,-63.53,Groceries,1351.86
+2026-01-11,Gym Membership,-45.00,Health,1306.86
+2026-01-12,Bookstore,-74.19,Entertainment,1232.67
+2026-01-12,Lunch Spot,-9.89,Dining,1222.78
+2026-01-13,Ride Share,-17.32,Transport,1205.46
+2026-01-14,Ride Share,-44.31,Transport,1161.15
+2026-01-15,Cinema Tickets,-48.85,Entertainment,1112.30
+2026-01-15,Cloud Storage,-9.99,Subscriptions,1102.31
+2026-01-15,Lunch Spot,-29.81,Dining,1072.50
+2026-01-15,Ride Share,-44.78,Transport,1027.72
+2026-01-16,Lunch Spot,-28.88,Dining,998.84
+2026-01-17,Grocery Store,-105.12,Groceries,893.72
+2026-01-17,Ride Share,-32.52,Transport,861.20
+2026-01-18,Electric Utility,-92.00,Utilities,769.20
+2026-01-18,Grocery Store,-123.17,Groceries,646.03
+2026-01-19,Bookstore,-38.34,Entertainment,607.69
+2026-01-19,Coffee Shop,-35.91,Dining,571.78
+2026-01-20,Internet Bill,-65.00,Utilities,506.78
+2026-01-21,Lunch Spot,-13.64,Dining,493.14
+2026-01-22,Coffee Shop,-24.60,Dining,468.54
+2026-01-22,Ride Share,-40.96,Transport,427.58
+2026-01-23,Metro Card Reload,-30.96,Transport,396.62
+2026-01-23,Salary Deposit,1500.00,Income,1896.62
+2026-01-24,Grocery Store,-99.90,Groceries,1796.72
+2026-01-24,Online Retail,-55.68,Shopping,1741.04
+2026-01-25,Grocery Store,-71.03,Groceries,1670.01
+2026-01-26,Ride Share,-33.87,Transport,1636.14
+2026-01-27,Coffee Shop,-32.74,Dining,1603.40
+2026-01-27,Fuel Station,-13.67,Transport,1589.73
+2026-01-28,Dinner Takeout,-23.43,Dining,1566.30
+2026-01-30,Fuel Station,-21.92,Transport,1544.38
+2026-01-31,Fuel Station,-53.79,Transport,1490.59
+2026-01-31,Grocery Store,-105.18,Groceries,1385.41
+2026-02-01,Grocery Store,-55.73,Groceries,1329.68
+2026-02-01,Rent Payment,-1200.00,Housing,129.68
+2026-02-03,Fuel Station,-19.87,Transport,109.81
+2026-02-03,Online Retail,-55.28,Shopping,54.53
+2026-02-04,Cinema Tickets,-114.51,Shopping,-59.98
+2026-02-05,Lunch Spot,-27.83,Dining,-87.81
+2026-02-06,Netflix,-15.99,Subscriptions,-103.80
+2026-02-06,Ride Share,-25.88,Transport,-129.68
+2026-02-06,Salary Deposit,1500.00,Income,1370.32
+2026-02-07,Grocery Store,-95.02,Groceries,1275.30
+2026-02-07,Ride Share,-37.19,Transport,1238.11
+2026-02-08,Coffee Shop,-12.26,Dining,1225.85
+2026-02-08,Fuel Station,-20.44,Transport,1205.41
+2026-02-08,Grocery Store,-125.55,Groceries,1079.86
+2026-02-08,Online Retail,-56.12,Entertainment,1023.74
+2026-02-09,Fuel Station,-21.54,Transport,1002.20
+2026-02-09,Lunch Spot,-8.56,Dining,993.64
+2026-02-09,Spotify,-10.99,Subscriptions,982.65
+2026-02-10,Ride Share,-35.72,Transport,946.93
+2026-02-11,Fuel Station,-38.44,Transport,908.49
+2026-02-11,Gym Membership,-45.00,Health,863.49
+2026-02-12,Fuel Station,-45.25,Transport,818.24
+2026-02-14,Grocery Store,-70.85,Groceries,747.39
+2026-02-14,Metro Card Reload,-31.52,Transport,715.87
+2026-02-14,Online Retail,-108.06,Entertainment,607.81
+2026-02-15,Cloud Storage,-9.99,Subscriptions,597.82
+2026-02-15,Fuel Station,-53.21,Transport,544.61
+2026-02-15,Grocery Store,-96.32,Groceries,448.29
+2026-02-17,Dinner Takeout,-29.45,Dining,418.84
+2026-02-17,Fuel Station,-43.87,Transport,374.97
+2026-02-18,Electric Utility,-92.00,Utilities,282.97
+2026-02-18,Ride Share,-28.49,Transport,254.48
+2026-02-20,Fuel Station,-23.50,Transport,230.98
+2026-02-20,Internet Bill,-65.00,Utilities,165.98
+2026-02-20,Salary Deposit,1500.00,Income,1665.98
+2026-02-21,Grocery Store,-125.34,Groceries,1540.64
+2026-02-22,Cinema Tickets,-61.89,Shopping,1478.75
+2026-02-22,Grocery Store,-71.73,Groceries,1407.02
+2026-02-22,Metro Card Reload,-48.65,Transport,1358.37
+2026-02-23,Metro Card Reload,-37.26,Transport,1321.11
+2026-02-24,Metro Card Reload,-33.81,Transport,1287.30
+2026-02-25,Dinner Takeout,-27.92,Dining,1259.38
+2026-02-26,Ride Share,-8.64,Transport,1250.74
+2026-02-27,Cinema Tickets,-43.52,Entertainment,1207.22
+2026-02-27,Coffee Shop,-29.32,Dining,1177.90
+2026-02-28,Grocery Store,-80.32,Groceries,1097.58
+2026-03-01,Grocery Store,-57.29,Groceries,1040.29
+2026-03-01,Rent Payment,-1200.00,Housing,-159.71
+2026-03-01,Ride Share,-31.89,Transport,-191.60
+2026-03-02,Metro Card Reload,-23.97,Transport,-215.57
+2026-03-03,Ride Share,-22.03,Transport,-237.60
+2026-03-04,Dinner Takeout,-23.44,Dining,-261.04
+2026-03-06,Netflix,-15.99,Subscriptions,-277.03
+2026-03-06,Salary Deposit,1500.00,Income,1222.97
+2026-03-07,Grocery Store,-77.55,Groceries,1145.42
+2026-03-08,Grocery Store,-85.20,Groceries,1060.22
+2026-03-09,Online Retail,-25.63,Entertainment,1034.59
+2026-03-09,Spotify,-10.99,Subscriptions,1023.60
+2026-03-11,Gym Membership,-45.00,Health,978.60
+2026-03-12,Lunch Spot,-18.19,Dining,960.41
+2026-03-12,Ride Share,-53.59,Transport,906.82
+2026-03-14,Grocery Store,-118.04,Groceries,788.78
+2026-03-14,Metro Card Reload,-37.46,Transport,751.32
+2026-03-15,Cloud Storage,-9.99,Subscriptions,741.33
+2026-03-15,Dinner Takeout,-39.15,Dining,702.18
+2026-03-15,Grocery Store,-90.99,Groceries,611.19
+2026-03-16,Cinema Tickets,-88.02,Shopping,523.17
+2026-03-17,Lunch Spot,-34.66,Dining,488.51
+2026-03-17,Ride Share,-22.07,Transport,466.44
+2026-03-18,Electric Utility,-92.00,Utilities,374.44
+2026-03-18,Fuel Station,-19.48,Transport,354.96
+2026-03-19,Fuel Station,-11.71,Transport,343.25
+2026-03-20,Internet Bill,-65.00,Utilities,278.25
+2026-03-20,Ride Share,-14.73,Transport,263.52
+2026-03-20,Salary Deposit,1500.00,Income,1763.52
